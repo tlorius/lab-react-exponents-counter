@@ -79,3 +79,9 @@
   font-size: 1.6rem;
   font-weight: 700;
 }
+
+.exponent-number {
+  font-size: 50%;
+  position: relative;
+  bottom: 1.6ex;
+}
